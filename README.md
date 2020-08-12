@@ -33,8 +33,8 @@ I am a  Deep Learning Professional and Enthusiast , Python lover
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
-| :---: | :---: | :---: | :---: | :---: |
+| Python | Sklearn | PowerBI |
+| :---: | :---: | :---: |
 
 | Selenium | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: |
