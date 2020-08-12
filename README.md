@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
 ### Hi there 👋 My name is Deepak Kushwaha ! 
