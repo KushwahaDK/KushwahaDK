@@ -37,11 +37,14 @@ I am a  Deep Learning Professional and Enthusiast , Python lover
 | Python | Sklearn | C++ | Tkinter | Tableau |
 | :---: | :---: | :---: | :---: | :---: |
 
+
 | Selenium | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
+
 | Pandas | Tensorflow | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
+
 
 | Pycharm | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
