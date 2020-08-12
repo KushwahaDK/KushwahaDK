@@ -46,4 +46,4 @@ I am a  Deep Learning Professional and Enthusiast , Python lover
 | Pycharm | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&line_height=30)
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=KushwahaDK)](https://github.com/KushwahaDK/github-readme-stats)
