@@ -36,8 +36,8 @@ I am a  Deep Learning Professional and Enthusiast , Python lover
 | Python | Sklearn | PowerBI |
 | :---: | :---: | :---: |
 
-| Selenium | SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: |
+ SQL | Pytorch | Numpy |
+| :---: | :---: | :---: |
 
 
 | Pandas | Tensorflow | Matplotlib |
