@@ -42,7 +42,7 @@ I am a  Deep Learning Professional and Enthusiast , Python lover
 
 
 | Pandas | Tensorflow | Matplotlib |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 
 
 | Pycharm | GoogleColab | Jupyter Notebook | Github |
