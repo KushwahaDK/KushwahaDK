@@ -3,7 +3,7 @@
 ### Hi there 👋 My name is Deepak Kushwaha ! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deepak-kushwaha818/)&nbsp;
-[![Mail ID](https://pbs.twimg.com/profile_images/892067670970978305/_K34MGL8_100x100.jpg) Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=deepakkushwaha818@gmail.com)&nbsp;
+[![Mail Me](https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png) Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=deepakkushwaha818@gmail.com)&nbsp;
 <!--
 
 Here are some ideas to get you started:
